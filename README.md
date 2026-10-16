@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedream-5-0-lite-api-id](https://github.com/em-1szvltg3/seedream-5-0-lite-api-id)
+- **Same model, other languages** — 9 more language builds: 中文 [seedream-5-0-lite-api-cn](https://github.com/kchb7hrowii/seedream-5-0-lite-api-cn) · Deutsch [seedream-5-0-lite-api-de](https://github.com/op7yug/seedream-5-0-lite-api-de) · Español `seedream-5-0-lite-api-es` · Français [seedream-5-0-lite-api-fr](https://github.com/jv0e8xa/seedream-5-0-lite-api-fr) · Relay/gateway `seedream-5-0-lite-api-gateway` · 日本語 [seedream-5-0-lite-api-ja](https://github.com/wonzgeo6apai/seedream-5-0-lite-api-ja) · 한국어 `seedream-5-0-lite-api-ko` · Português [seedream-5-0-lite-api-pt](https://github.com/nt4kne51whi8v/seedream-5-0-lite-api-pt) · Русский [seedream-5-0-lite-api-ru](https://github.com/rxwpgd2t3zs2k/seedream-5-0-lite-api-ru)
+- **More models in this language** — [midjourney-api-id](https://github.com/cvrwq0/midjourney-api-id) · [gemini-2-5-flash-image-preview-api-id](https://github.com/gmrg0s/gemini-2-5-flash-image-preview-api-id) · [nano-banana-api-id](https://github.com/vsa185x9ecrd/nano-banana-api-id) · [gemini-3-1-flash-image-preview-api-id](https://github.com/p61qrgpg/gemini-3-1-flash-image-preview-api-id) · [nano-banana-2-api-id](https://github.com/n1rf4ezzz/nano-banana-2-api-id) · [gemini-3-pro-image-preview-api-id](https://github.com/s78ve5v4x9ji2/gemini-3-pro-image-preview-api-id)
+- **Topic hubs** — every build of this model, all languages: [seedream-5-0-lite](https://github.com/topics/seedream-5-0-lite) · [seedream-5-0-lite-api](https://github.com/topics/seedream-5-0-lite-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
